@@ -1,0 +1,1 @@
+# ckeditor_a11ychecker
